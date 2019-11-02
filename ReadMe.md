@@ -41,7 +41,6 @@ The "bitcoin_data_analysis.ipynb" notebook consists of all the visualizations an
 
 ## BI Architecture
 
-This is a traditional BI pipeline.
 ![Alt text](https://github.com/jin1004/bitcoin_historical_data_analysis/blob/master/images/bi_pipeline.png)
 
 In order to plan a detailed architecture and decide exactly which tools to use, I feel like it's important to know way more details about the business and the current state of things such as what the incoming data sources are, which areas primarily need optimization, resources available etc.
